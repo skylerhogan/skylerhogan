@@ -2,7 +2,7 @@
 
 ## Full Stack Software Developer
 
-💻 I'm currently studying at [LaunchCode](https://www.launchcode.org) with an amazing group of people.
+💻 I'm currently studying at [LaunchCode](https://www.launchcode.org/about) with an amazing group of people.
 
 ### A litte bit about me:
 
