@@ -1,16 +1,21 @@
-### Hi there 👋
+![githubHeader](https://user-images.githubusercontent.com/79928899/124009403-2d6dcf80-d9a3-11eb-8127-28defedce0fc.png)
 
-<!--
-**skylerhogan/skylerhogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Software Developer
 
-Here are some ideas to get you started:
+💻 I'm currently studying at [LaunchCode](https://www.launchcode.org) with an amazing group of people.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A litte bit about me:
+
+- Nationality: 🇺🇸
+- Personal interests: 🧘🏻‍♂️ 🛫 💪🏽 🏄🏻‍♂️ 🏕 💻 🎸 🏈
+- Countries I've visited: 🇨🇦 🇩🇪 🇪🇸 🇻🇳 🇮🇹 🇹🇭 🇲🇽 🇯🇵
+- Current location: 📍 Saint Louis, MO, USA
+
+
+🌎 Check my [website](http://www.skylerhogan.com/)!
+
+🌱 I’m currently learning about object-relational mapping and different forms of authentication.
+
+🔭 I've been working on a number of different projects so keep an eye out for my updated portfolio.
+
+Feel free to reach out and connect! 💬
