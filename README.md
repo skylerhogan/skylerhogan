@@ -11,6 +11,21 @@
 - Countries I've visited: 🇨🇦 🇩🇪 🇪🇸 🇻🇳 🇮🇹 🇹🇭 🇲🇽 🇯🇵
 - Current location: 📍 Saint Louis, MO, USA
 
+### Technologies + Tools
+
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=ff9999)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=ff9999)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ff9999)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=ff9999)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=ff9999)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=ff9999)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=ff9999)
+![](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=spring&logoColor=white&color=ff9999)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=ff9999)
+![](https://img.shields.io/badge/Tools-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=ff9999)
+![](https://img.shields.io/badge/Tools-AdobeCC-informational?style=flat&logo=adobe&logoColor=white&color=ff9999)
+![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=ff9999)
+
 
 🌎 Check out my [website](http://www.skylerhogan.com/)!
 
