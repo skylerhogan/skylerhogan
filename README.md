@@ -12,7 +12,7 @@
 - Current location: 📍 Saint Louis, MO, USA
 
 
-🌎 Check my [website](http://www.skylerhogan.com/)!
+🌎 Check out my [website](http://www.skylerhogan.com/)!
 
 🌱 I’m currently learning about object-relational mapping and different forms of authentication.
 
