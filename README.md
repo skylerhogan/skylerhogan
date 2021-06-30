@@ -1,6 +1,6 @@
 ![githubHeader](https://user-images.githubusercontent.com/79928899/124009403-2d6dcf80-d9a3-11eb-8127-28defedce0fc.png)
 
-## Full Stack Software Developer
+## Full Stack Developer
 
 💻 I'm currently studying at [LaunchCode](https://www.launchcode.org/about) with an amazing group of people.
 
