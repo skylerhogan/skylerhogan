@@ -7,7 +7,7 @@
 ### A little bit about me:
 
 - Nationality: 🇺🇸
-- Personal interests: 🧘🏻‍♂️ 🛫 💪🏽 🏄🏻‍♂️ 🏕 💻 🎸 🏈
+- Personal interests: 🧘🏻‍♂️ 🛫 💪🏽 🏄🏻‍♂️ 🏕 💻 🎸 🏈 🌱
 - Countries I've visited: 🇨🇦 🇩🇪 🇪🇸 🇻🇳 🇮🇹 🇹🇭 🇲🇽 🇯🇵
 - Current location: 📍 Saint Louis, MO, USA
 
