@@ -1,4 +1,5 @@
-![helloWorldHeader](https://user-images.githubusercontent.com/79928899/124167387-9586e900-da69-11eb-8b1f-ebf0261134e0.png)
+![git-header](https://user-images.githubusercontent.com/79928899/125007927-052b4400-e027-11eb-80e4-74c2a1fd2ed0.jpg)
+
 
 
 ## Full Stack Developer
@@ -14,20 +15,20 @@
 
 ### Technologies + Tools
 
-![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=ff9999)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=ff9999)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=ff9999)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ff9999)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=ff9999)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=ff9999)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=ff9999)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=ff9999)
-![](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=spring&logoColor=white&color=ff9999)
-![](https://img.shields.io/badge/Code-Thymeleaf-informational?style=flat&logo=thymeleaf&logoColor=white&color=ff9999)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=ff9999)
-![](https://img.shields.io/badge/Tools-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=ff9999)
-![](https://img.shields.io/badge/Tools-AdobeCC-informational?style=flat&logo=adobe&logoColor=white&color=ff9999)
-![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=ff9999)
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=72c4b9)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=72c4b9)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=72c4b9)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=72c4b9)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=72c4b9)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=72c4b9)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=72c4b9)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=72c4b9)
+![](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=spring&logoColor=white&color=72c4b9)
+![](https://img.shields.io/badge/Code-Thymeleaf-informational?style=flat&logo=thymeleaf&logoColor=white&color=72c4b9)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=72c4b9)
+![](https://img.shields.io/badge/Tools-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=72c4b9)
+![](https://img.shields.io/badge/Tools-AdobeCC-informational?style=flat&logo=adobe&logoColor=white&color=72c4b9)
+![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=72c4b9)
 
 ## &#x1f4c8; GitHub Stats
 
