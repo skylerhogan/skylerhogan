@@ -4,7 +4,7 @@
 
 ## Full Stack Developer
 
-💻 I'm currently studying at [LaunchCode](https://www.launchcode.org/about) with an amazing group of people.
+💻 I'm currently seeking full-time employment in Full Stack Development
 
 ### A little bit about me:
 
