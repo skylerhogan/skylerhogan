@@ -21,6 +21,7 @@
 ![](https://img.shields.io/badge/Code-Thymeleaf-informational?style=flat&logo=thymeleaf&logoColor=white&color=72c4b9)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=72c4b9)
 ![](https://img.shields.io/badge/Tools-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=72c4b9)
+![](https://img.shields.io/badge/Tools-Bulma-informational?style=flat&logo=bulma&logoColor=white&color=72c4b9)
 ![](https://img.shields.io/badge/Tools-AdobeCC-informational?style=flat&logo=adobe&logoColor=white&color=72c4b9)
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=72c4b9)
 
