@@ -1,11 +1,5 @@
 ![git-header](https://user-images.githubusercontent.com/79928899/125007927-052b4400-e027-11eb-80e4-74c2a1fd2ed0.jpg)
 
-
-
-## Full Stack Developer
-
-💻 I'm currently seeking full-time employment in Full Stack Development
-
 ### A little bit about me:
 
 - Nationality: 🇺🇸
