@@ -37,7 +37,7 @@
 ##
 🌎 Check out my [website](http://www.skylerhogan.com/)!
 
-🌱 I’m currently learning about object-relational mapping and different forms of authentication.
+🌱 I’m currently studying machine learning and data science.
 
 🔭 I've been working on a number of different projects so keep an eye out for my updated portfolio.
 
