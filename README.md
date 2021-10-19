@@ -40,6 +40,6 @@
 
 ##
 
-🔭 I’m currently studying machine learning and data science.
+🔭 I’m currently learning how to use React to its fullest while studying data science at [DataCamp](https://www.datacamp.com).
 
 Feel free to reach out and connect at [skylerhogan.com](http://www.skylerhogan.com/).
