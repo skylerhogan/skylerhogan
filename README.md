@@ -1,4 +1,6 @@
-![git-header](https://user-images.githubusercontent.com/79928899/145722106-c1a2a68d-b550-410e-b9fd-fdd737bc00c9.png)
+![git-header](https://user-images.githubusercontent.com/79928899/157109852-e23b7e4c-355e-4a93-b70e-a2dfe3898bf7.png)
+
+
 
 ### A little bit about me:
 
