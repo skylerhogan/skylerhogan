@@ -1,35 +1,41 @@
-![git-header](https://user-images.githubusercontent.com/79928899/157109852-e23b7e4c-355e-4a93-b70e-a2dfe3898bf7.png)
-
+![git-header](https://user-images.githubusercontent.com/79928899/200146660-e0449931-34fe-4f24-9488-0e1eb04bea85.png)
 
 
 ### A little bit about me:
 
-
 - Nationality: 🇺🇸
-- Personal interests: 🧘🏻‍♂️ 🛫 💪🏽 🏄🏻‍♂️ 🏕 💻 🎸 🏈 🌱
+- Interests: 🧘🏻‍♂️ 🛫 💪🏽 🏄🏻‍♂️ 🏕 💻 🎸 🏈
 - Countries I've visited: 🇨🇦 🇩🇪 🇪🇸 🇻🇳 🇮🇹 🇹🇭 🇲🇽 🇯🇵
 - Current location: 📍 Saint Louis, MO, USA
 
+
 ### Technologies + Tools
 
-![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=e17665)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=e17665)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=e17665)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=e17665)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=e17665)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=e17665)
-![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=white&color=e17665)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=e17665)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=e17665)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=e17665)
-![](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=spring&logoColor=white&color=e17665)
-![](https://img.shields.io/badge/Code-Thymeleaf-informational?style=flat&logo=thymeleaf&logoColor=white&color=e17665)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=e17665)
-![](https://img.shields.io/badge/Tools-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=e17665)
-![](https://img.shields.io/badge/Tools-Bulma-informational?style=flat&logo=bulma&logoColor=white&color=e17665)
-![](https://img.shields.io/badge/Tools-AdobeCC-informational?style=flat&logo=adobe&logoColor=white&color=e17665)
-![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=e17665)
-![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=e17665)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white_)
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
 
 ## &#x1f4c8; GitHub Stats
 
@@ -41,7 +47,5 @@
 </a> -->
 
 ##
-
-🔭 I’m currently working as a consultant while studing data science and machine learning.
 
 Feel free to reach out and connect at [skylerhogan.com](http://www.skylerhogan.com/).
